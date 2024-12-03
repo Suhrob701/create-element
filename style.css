@@ -1,0 +1,22 @@
+body {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+  }
+  
+  h1 {
+    color: yellow;
+    font-size: 48px;
+    margin: 0;
+  }
+  
+  p {
+    color: yellow;
+    font-size: 100px;
+    margin-top: 10px;
+  }
+  
